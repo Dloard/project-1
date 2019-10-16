@@ -1,5 +1,5 @@
 # project-1
-My first repository.
+My first repository for learning how it's work.
 
 
 
